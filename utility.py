@@ -11,3 +11,6 @@ def cacltwo():
 
 def calcthree():
     pass
+
+def calcfour():
+    pass
