@@ -8,3 +8,6 @@ def calcone():
 
 def cacltwo():
     pass
+
+def calcthree():
+    pass
