@@ -12,3 +12,6 @@ def divide(x, y):
 
 def calcInterp():
     pass
+
+def calcSanitize():
+    pass
