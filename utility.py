@@ -3,6 +3,8 @@
 def timezoneFunction():
     pass
 
-def calcOne():
+def calcone():
     pass
 
+def cacltwo():
+    pass
