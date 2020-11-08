@@ -15,3 +15,6 @@ def calcInterp():
 
 def calcSanitize():
     pass
+
+def calctoflow():
+    pass
