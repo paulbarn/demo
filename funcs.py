@@ -9,3 +9,12 @@ def multiply(x, y):
 
 def divide(x, y):
     return x / y
+
+def calcInterp():
+    pass
+
+def calcSanitize():
+    pass
+
+def calctoflow():
+    pass
