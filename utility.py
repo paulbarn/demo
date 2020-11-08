@@ -2,3 +2,7 @@
 
 def timezoneFunction():
     pass
+
+def calcOne():
+    pass
+
